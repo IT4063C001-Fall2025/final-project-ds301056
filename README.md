@@ -21,6 +21,7 @@ Project Questions
 3. Are certain cuisines or food categories (burgers, salads, beverages, desserts) consistently higher or lower in key nutrients?
 
 4. How well do Kaggle datasets align with USDA’s official nutrition data?
+5.
 
 What Would an Answer Look Like?
 
