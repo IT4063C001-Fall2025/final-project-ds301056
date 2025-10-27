@@ -63,13 +63,13 @@ it took me a bit to find relatable datasets and to format the .pynb. after some 
 
 <!-- Replace the (...) with your score -->
 
-| Category          | Score    |
-| ----------------- | -------- |
-| **Setup**         | ... / 10 |
-| **Execution**     | ... / 20 |
-| **Documentation** | ... / 10 |
-| **Presentation**  | ... / 30 |
-| **Total**         | ... / 70 |
+| Category          | Score   |
+| ----------------- | ------- |
+| **Setup**         | 10 / 10 |
+| **Execution**     | 20 / 20 |
+| **Documentation** | 10 / 10 |
+| **Presentation**  | 30 / 30 |
+| **Total**         | 70 / 70 |
 
 ### Reflection
 
@@ -77,11 +77,19 @@ it took me a bit to find relatable datasets and to format the .pynb. after some 
 
 #### What went well?
 
+(The data exploration and cleaning)
+
 #### What did not go well?
+
+the graphs can be finniky to format
 
 #### What did you learn?
 
+the IQR can be one of the best ways to find outliers q3 - q1 -= (lower and upper bounds)
+
 #### What would you do differently next time?
+
+I would probably pull the api data from the gov api and use it as the standard and weight to see if the values in the dataset are trustable
 
 ---
 
